@@ -1,0 +1,9 @@
+imports:
+- path: vm-template.py
+- path: network-template.py
+- path: nyu-networking-course-resources.py
+- path: storage.py
+
+resources:
+- name: compute-engine-setup
+  type: nyu-networking-course-resources.py
